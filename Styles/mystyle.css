@@ -1,0 +1,47 @@
+.leftimg{
+    margin-left: 0px ;
+    margin-right: 350px;
+    display: inline-block;
+    width: 200x;
+    height: 350px;
+
+}
+
+.header{
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: underline;
+    color: rgb(143, 108, 114);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.subheader{
+    text-decoration: underline;
+    color: rgb(51, 50, 94);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.moon{
+    color: grey;
+    font-style: italic;
+    font-size: small;
+    
+}
+
+.imgsize{
+    width: 200px;
+    height: 300px;
+    display: block;
+    margin-right: 100px;
+   
+}
+.bord{
+    border: 3px solid rgb(0, 0, 58);
+}
+.center{
+    margin-left: 250px ;
+    margin-right: 250px;
+    display: block;
+    width: 100px;
+    height: 100px;
+}
